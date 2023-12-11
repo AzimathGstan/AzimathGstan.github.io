@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.fuitest",
+    "sha256_cert_fingerprints":
+    ["50:2A:B9:BC:EB:22:02:BF:34:F7:22:6E:C7:C9:0E:B4:AE:6A:D1:85:9C:4F:38:95:7F:C2:52:A0:1F:C6:B6:5A"]
+  }
+}]
